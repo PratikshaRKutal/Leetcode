@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class MinimumPathSumOfTraingle {
+public class MinimumPathSumOfTriangle {
     public static int minimumTotal(List<List<Integer>> triangle) {
         int n=triangle.size();
 
